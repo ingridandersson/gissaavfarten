@@ -70,7 +70,7 @@ while (menyVal != 4)
                 }
               
 
-                Console.WriteLine("Gissa talet igen, 1-10");
+                Console.WriteLine("Gissa talet igen, 1-13");
                 dittTal = Convert.ToInt32(Console.ReadLine());
 
             }
